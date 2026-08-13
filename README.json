@@ -63,7 +63,7 @@
             "last_commit": "2026-08-12T09:31:01Z",
             "owner": "firefly-iii",
             "repo": "firefly-iii",
-            "stars": 24296
+            "stars": 24303
           }
         },
         {
@@ -88,10 +88,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T16:47:09Z",
+            "last_commit": "2026-08-13T16:33:35Z",
             "owner": "mayswind",
             "repo": "ezbookkeeping",
-            "stars": 5389
+            "stars": 5397
           }
         }
       ],
@@ -108,10 +108,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T03:51:57Z",
+            "last_commit": "2026-08-13T23:21:16Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 20920
+            "stars": 20937
           }
         },
         {
@@ -122,7 +122,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T22:03:32Z",
+            "last_commit": "2026-08-13T23:22:36Z",
             "owner": "simonw",
             "repo": "datasette",
             "stars": 11381
@@ -139,7 +139,7 @@
             "last_commit": "2026-05-22T04:13:21Z",
             "owner": "timelinize",
             "repo": "timelinize",
-            "stars": 3623
+            "stars": 3625
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-08-11T20:57:18Z",
             "owner": "karlicoss",
             "repo": "HPI",
-            "stars": 1623
+            "stars": 1624
           }
         },
         {
@@ -167,7 +167,7 @@
             "last_commit": "2026-05-25T17:20:58Z",
             "owner": "novoid",
             "repo": "Memacs",
-            "stars": 1111
+            "stars": 1112
           }
         },
         {
@@ -209,7 +209,7 @@
             "last_commit": "2024-05-02T03:03:04Z",
             "owner": "chronicle-app",
             "repo": "chronicle-etl",
-            "stars": 196
+            "stars": 197
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-02T20:40:46Z",
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 148
+            "stars": 149
           }
         },
         {
@@ -262,7 +262,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T03:04:58Z",
+            "last_commit": "2026-08-13T18:25:21Z",
             "owner": "lifeos-plus",
             "repo": "lifeos-cli",
             "stars": 11
@@ -320,7 +320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:04:06.977Z",
+    "last_updated": "2026-08-13T23:23:15.589Z",
     "original_repository": "woop/awesome-quantified-self",
     "original_repository_sha": "230393e33a61e05d494a18a3b598c218d8253224",
     "enhanced_repository": "enhansome/enhansome-quantified-self",
