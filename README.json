@@ -60,10 +60,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T16:11:01Z",
+            "last_commit": "2026-08-15T19:13:50Z",
             "owner": "firefly-iii",
             "repo": "firefly-iii",
-            "stars": 24310
+            "stars": 24322
           }
         },
         {
@@ -77,7 +77,7 @@
             "last_commit": "2026-07-03T20:57:54Z",
             "owner": "ledger",
             "repo": "ledger",
-            "stars": 6011
+            "stars": 6012
           }
         },
         {
@@ -88,10 +88,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T17:30:03Z",
+            "last_commit": "2026-08-15T19:02:20Z",
             "owner": "mayswind",
             "repo": "ezbookkeeping",
-            "stars": 5402
+            "stars": 5405
           }
         }
       ],
@@ -108,10 +108,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T22:51:37Z",
+            "last_commit": "2026-08-15T22:33:54Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 20958
+            "stars": 20962
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11383
+            "stars": 11385
           }
         },
         {
@@ -139,7 +139,7 @@
             "last_commit": "2026-05-22T04:13:21Z",
             "owner": "timelinize",
             "repo": "timelinize",
-            "stars": 3627
+            "stars": 3628
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-08-11T20:57:18Z",
             "owner": "karlicoss",
             "repo": "HPI",
-            "stars": 1625
+            "stars": 1626
           }
         },
         {
@@ -167,7 +167,7 @@
             "last_commit": "2026-05-25T17:20:58Z",
             "owner": "novoid",
             "repo": "Memacs",
-            "stars": 1112
+            "stars": 1113
           }
         },
         {
@@ -248,7 +248,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T01:23:20Z",
+            "last_commit": "2026-08-15T05:59:34Z",
             "owner": "nopara73",
             "repo": "LongevityWorldCup",
             "stars": 23
@@ -262,7 +262,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T04:33:32Z",
+            "last_commit": "2026-08-15T11:10:30Z",
             "owner": "lifeos-plus",
             "repo": "lifeos-cli",
             "stars": 11
@@ -320,7 +320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:58:08.749Z",
+    "last_updated": "2026-08-15T22:56:48.005Z",
     "original_repository": "woop/awesome-quantified-self",
     "original_repository_sha": "230393e33a61e05d494a18a3b598c218d8253224",
     "enhanced_repository": "enhansome/enhansome-quantified-self",
