@@ -63,7 +63,7 @@
             "last_commit": "2026-08-15T19:13:50Z",
             "owner": "firefly-iii",
             "repo": "firefly-iii",
-            "stars": 24322
+            "stars": 24336
           }
         },
         {
@@ -77,7 +77,7 @@
             "last_commit": "2026-07-03T20:57:54Z",
             "owner": "ledger",
             "repo": "ledger",
-            "stars": 6012
+            "stars": 6011
           }
         },
         {
@@ -88,10 +88,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T19:02:20Z",
+            "last_commit": "2026-08-16T16:49:29Z",
             "owner": "mayswind",
             "repo": "ezbookkeeping",
-            "stars": 5405
+            "stars": 5412
           }
         }
       ],
@@ -108,10 +108,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T22:33:54Z",
+            "last_commit": "2026-08-16T22:51:01Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 20962
+            "stars": 20972
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11385
+            "stars": 11384
           }
         },
         {
@@ -139,7 +139,7 @@
             "last_commit": "2026-05-22T04:13:21Z",
             "owner": "timelinize",
             "repo": "timelinize",
-            "stars": 3628
+            "stars": 3629
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2025-12-31T16:27:57Z",
             "owner": "PankajKumardev",
             "repo": "gitstory-2025",
-            "stars": 178
+            "stars": 177
           }
         },
         {
@@ -248,10 +248,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T05:59:34Z",
+            "last_commit": "2026-08-16T02:47:31Z",
             "owner": "nopara73",
             "repo": "LongevityWorldCup",
-            "stars": 23
+            "stars": 24
           }
         },
         {
@@ -262,7 +262,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T11:10:30Z",
+            "last_commit": "2026-08-16T12:53:19Z",
             "owner": "lifeos-plus",
             "repo": "lifeos-cli",
             "stars": 11
@@ -320,7 +320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:56:48.005Z",
+    "last_updated": "2026-08-16T22:55:59.743Z",
     "original_repository": "woop/awesome-quantified-self",
     "original_repository_sha": "230393e33a61e05d494a18a3b598c218d8253224",
     "enhanced_repository": "enhansome/enhansome-quantified-self",
