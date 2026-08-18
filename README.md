@@ -1,6 +1,6 @@
 # Awesome Quantified Self with stars
 
-# [<img src="https://cdn.rawgit.com/willempienaar/awesome-quantified-self/master/awesome-quantified-self.png">](https://github.com/willempienaar/awesome-quantified-self) ⭐ 2,756 | 🐛 34 | 📅 2026-07-06
+# [<img src="https://cdn.rawgit.com/willempienaar/awesome-quantified-self/master/awesome-quantified-self.png">](https://github.com/willempienaar/awesome-quantified-self) ⭐ 2,757 | 🐛 35 | 📅 2026-07-06
 
 > Carefully curated list of awesome Quantified Self resources.
 
@@ -100,7 +100,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Reflect](https://ntl.ai/reflect) - Tracking app with customizable forms and data insights (iOS).
 * [RTracker](https://janerob.com/rTracker/rTracker/iPhone/pages/rTracker-main.html) - Generic, customisable personal data tracker (iOS).
 * [Sink](https://sinkapp.io) - Voice-enabled Lifelogger for tracking anything with automatic sync to Google Sheets (iOS).
-* [Garmin AI Notifier](https://github.com/deep0410/garmin-ai-notifier) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-16 - Free daily pipeline that pulls Garmin Connect into SQLite, computes full-history wellness stats, generates a Gemini-written brief, and pushes it to your phone via ntfy, Telegram, or email. Runs on GitHub Actions.
+* [Garmin AI Notifier](https://github.com/deep0410/garmin-ai-notifier) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-18 - Free daily pipeline that pulls Garmin Connect into SQLite, computes full-history wellness stats, generates a Gemini-written brief, and pushes it to your phone via ntfy, Telegram, or email. Runs on GitHub Actions.
 
 ### Diet
 
@@ -180,7 +180,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Sleep Cycle](https://www.sleepcycle.com/) - Intelligent alarm clock and sleep tracker (iOS & Android).
 * [Pillow](https://neybox.com/pillow/) - Track your sleep from your Apple Watch or iPhone (iOS).
 * [CPAP Clarity](https://cpapclarity.com) - Analyzes CPAP and sleep data in your browser and explains it in plain language, with no upload and no account (Web).
-* [AirwayLab](https://github.com/airwaylab-app/airwaylab) ⭐ 32 | 🐛 43 | 🌐 TypeScript | 📅 2026-08-13 - Browser-based PAP therapy analysis with flow limitation scoring and an oximetry pipeline. All processing runs locally (Web).
+* [AirwayLab](https://github.com/airwaylab-app/airwaylab) ⭐ 32 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-13 - Browser-based PAP therapy analysis with flow limitation scoring and an oximetry pipeline. All processing runs locally (Web).
 
 ### Tally
 
@@ -202,9 +202,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Wealth
 
-* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,350 | 🐛 164 | 🌐 PHP | 📅 2026-08-17 - A free and open source personal finance manager
+* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,365 | 🐛 163 | 🌐 PHP | 📅 2026-08-18 - A free and open source personal finance manager
 * [Ledger](https://github.com/ledger/ledger) ⭐ 6,012 | 🐛 16 | 🌐 C++ | 📅 2026-07-03 - Simple but powerful command line accounting.
-* [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) ⭐ 5,417 | 🐛 10 | 🌐 Go | 📅 2026-08-17 - A lightweight, self-hosted personal finance and bookkeeping app.
+* [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) ⭐ 5,421 | 🐛 10 | 🌐 Go | 📅 2026-08-18 - A lightweight, self-hosted personal finance and bookkeeping app.
 * [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 * [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 * [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
@@ -246,21 +246,21 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Open Source Projects
 
-* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,003 | 🐛 115 | 🌐 Rust | 📅 2026-08-17 - 24/7 local screen and audio recording with AI-powered search. Captures everything you see, say, and hear for personal analytics and lifelogging.
-* [Datasette](https://github.com/simonw/datasette) ⭐ 11,383 | 🐛 708 | 🌐 Python | 📅 2026-08-14 - An open source multi-tool for exploring and publishing data.
-* [Timelinize](https://github.com/timelinize/timelinize) ⭐ 3,629 | 🐛 56 | 🌐 Go | 📅 2026-05-22 - A data aggregation and and timeline visualization tool.
+* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,079 | 🐛 122 | 🌐 Rust | 📅 2026-08-18 - 24/7 local screen and audio recording with AI-powered search. Captures everything you see, say, and hear for personal analytics and lifelogging.
+* [Datasette](https://github.com/simonw/datasette) ⭐ 11,386 | 🐛 708 | 🌐 Python | 📅 2026-08-14 - An open source multi-tool for exploring and publishing data.
+* [Timelinize](https://github.com/timelinize/timelinize) ⭐ 3,630 | 🐛 56 | 🌐 Go | 📅 2026-05-22 - A data aggregation and and timeline visualization tool.
 * [HumanProgrammingInterface](https://github.com/karlicoss/HPI) ⭐ 1,626 | 🐛 21 | 🌐 Python | 📅 2026-08-11 - Unify, acces and interact with all of your personal data.
 * [Memacs](https://github.com/novoid/Memacs) ⭐ 1,113 | 🐛 20 | 🌐 Python | 📅 2026-05-25 - Visualize your life in Orgmode.
 * [Me API](https://github.com/danfang/me-api) ⭐ 839 | 🐛 5 | 🌐 JavaScript | 📅 2024-03-29 - An extensible, personal API with custom integrations.
 * [TimelineBuilder](https://github.com/facebookresearch/personal-timeline) ⚠️ Archived - A data aggregation and and timeline visualization tool by Facebook.
 * [Chronicle](https://github.com/chronicle-app/chronicle-etl) ⭐ 197 | 🐛 29 | 🌐 Ruby | 📅 2024-05-02 - A CLI toolkit for extracting and working with your digital history.
 * [GitStory](https://github.com/pankajkumardev/gitstory-2025) ⭐ 177 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-31 - Generates a "Spotify Wrapped" style visual summary of your yearly GitHub contribution activity.
-* [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) ⭐ 151 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-02 - Self-hosted CLI that reads BLE smart scales (23 brands), calculates body composition (fat %, muscle, BMR, etc.), and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. [Website](https://blescalesync.dev).
-* [Longevity World Cup](https://github.com/nopara73/LongevityWorldCup) ⭐ 24 | 🐛 188 | 🌐 C# | 📅 2026-08-17 - Open source healthspan competition platform with biological age calculators, athlete profiles, and public leaderboards.
-* [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-08-17 - Terminal-native LifeOS for personal workflows, habits, and timelogs.
+* [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) ⭐ 152 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-18 - Self-hosted CLI that reads BLE smart scales (23 brands), calculates body composition (fat %, muscle, BMR, etc.), and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. [Website](https://blescalesync.dev).
+* [Longevity World Cup](https://github.com/nopara73/LongevityWorldCup) ⭐ 24 | 🐛 185 | 🌐 C# | 📅 2026-08-18 - Open source healthspan competition platform with biological age calculators, athlete profiles, and public leaderboards.
+* [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-08-18 - Terminal-native LifeOS for personal workflows, habits, and timelogs.
 * [QS-Schema](https://github.com/QS-Schema/qs-schema) ⭐ 2 | 🐛 4 | 📅 2023-08-05 - Open schemes for QS applications.
 * [PGIS](https://github.com/chukwumaonyeije/pgis-manus-skill#readme) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-02-25 - Open-source decision-support framework for optimizing endurance training while managing Type 2 diabetes, integrating CGM, HRV, sleep, and training load data.
-* [shenas](https://github.com/shenas-org/shenas) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-05-23 - Local-first personal analytics platform that ingests health, finance, and activity data into a per-user DuckDB; raw data stays on your device and models train via federated learning.
+* [shenas](https://github.com/shenas-org/shenas) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-18 - Local-first personal analytics platform that ingests health, finance, and activity data into a per-user DuckDB; raw data stays on your device and models train via federated learning.
 * [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
 * [Dogsheep](https://dogsheep.github.io/) - A collection of data exporters and tools for personal analytics using SQLite and/or Datasette.
 * [GoldenCheetah](https://www.goldencheetah.org/) - FOSS software to import and analyse fitness data locally on Linux, MacOS and Windows.
@@ -273,4 +273,4 @@ To the extent possible under law, [Willem Pienaar](https://github.com/willempien
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
