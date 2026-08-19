@@ -1,104 +1,102 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BiomarkerDash",
+              "description": "Simple dashboard to visualize trends in bloodwork biomarkers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 679385548,
+                "language": "Python",
+                "last_commit": "2023-11-17T21:38:36Z",
+                "owner": "NoTranslationLayer",
+                "repo": "biomarkerdash",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bloodboy",
+              "description": "Biomarker analyzer that extracts lab results from PDFs, converts units, and visualizes trends.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1081808417,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T02:45:48Z",
+                "owner": "ashugaev",
+                "repo": "bloodboy-biomarkers-tracker",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Aggregators & Dashboards"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Firefly III",
+              "description": "A free and open source personal finance manager",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21298446,
+                "language": "PHP",
+                "last_commit": "2026-08-18T06:53:57Z",
+                "owner": "firefly-iii",
+                "repo": "firefly-iii",
+                "stars": 24373
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ledger",
+              "description": "Simple but powerful command line accounting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16309,
+                "language": "C++",
+                "last_commit": "2026-07-03T20:57:54Z",
+                "owner": "ledger",
+                "repo": "ledger",
+                "stars": 6012
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ezBookkeeping",
+              "description": "A lightweight, self-hosted personal finance and bookkeeping app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 304836585,
+                "language": "Go",
+                "last_commit": "2026-08-18T17:44:53Z",
+                "owner": "mayswind",
+                "repo": "ezbookkeeping",
+                "stars": 5426
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Wealth"
+        }
+      ],
       "title": "Applications and Platforms"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "BiomarkerDash",
-          "description": "Simple dashboard to visualize trends in bloodwork biomarkers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-11-17T21:38:36Z",
-            "owner": "NoTranslationLayer",
-            "repo": "biomarkerdash",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bloodboy",
-          "description": "Biomarker analyzer that extracts lab results from PDFs, converts units, and visualizes trends.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-26T05:51:22Z",
-            "owner": "ashugaev",
-            "repo": "bloodboy-biomarkers-tracker",
-            "stars": 20
-          }
-        }
-      ],
-      "title": "Aggregators & Dashboards"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Mind & Cognition"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tally"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Firefly III",
-          "description": "A free and open source personal finance manager",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-18T06:53:57Z",
-            "owner": "firefly-iii",
-            "repo": "firefly-iii",
-            "stars": 24365
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ledger",
-          "description": "Simple but powerful command line accounting.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-03T20:57:54Z",
-            "owner": "ledger",
-            "repo": "ledger",
-            "stars": 6012
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ezBookkeeping",
-          "description": "A lightweight, self-hosted personal finance and bookkeeping app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T17:44:53Z",
-            "owner": "mayswind",
-            "repo": "ezbookkeeping",
-            "stars": 5421
-          }
-        }
-      ],
-      "title": "Wealth"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -107,11 +105,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 817326197,
             "language": "Rust",
-            "last_commit": "2026-08-18T22:46:48Z",
+            "last_commit": "2026-08-19T06:37:37Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21079
+            "stars": 21104
           }
         },
         {
@@ -121,11 +120,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107914493,
             "language": "Python",
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11386
+            "stars": 11388
           }
         },
         {
@@ -135,11 +135,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 841044067,
             "language": "Go",
             "last_commit": "2026-05-22T04:13:21Z",
             "owner": "timelinize",
             "repo": "timelinize",
-            "stars": 3630
+            "stars": 3631
           }
         },
         {
@@ -149,6 +150,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 209134309,
             "language": "Python",
             "last_commit": "2026-08-11T20:57:18Z",
             "owner": "karlicoss",
@@ -163,6 +165,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2092708,
             "language": "Python",
             "last_commit": "2026-05-25T17:20:58Z",
             "owner": "novoid",
@@ -177,6 +180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36276392,
             "language": "JavaScript",
             "last_commit": "2024-03-29T04:21:27Z",
             "owner": "danfang",
@@ -191,6 +195,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 653337426,
             "language": "Jupyter Notebook",
             "last_commit": "2024-09-03T16:37:14Z",
             "owner": "facebookresearch",
@@ -205,6 +210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 284381194,
             "language": "Ruby",
             "last_commit": "2024-05-02T03:03:04Z",
             "owner": "chronicle-app",
@@ -219,6 +225,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1111862111,
             "language": "TypeScript",
             "last_commit": "2025-12-31T16:27:57Z",
             "owner": "PankajKumardev",
@@ -233,6 +240,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1133724679,
             "language": "TypeScript",
             "last_commit": "2026-08-18T13:27:03Z",
             "owner": "KristianP26",
@@ -247,6 +255,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 856338875,
             "language": "C#",
             "last_commit": "2026-08-18T22:34:12Z",
             "owner": "nopara73",
@@ -261,8 +270,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1205537709,
             "language": "Python",
-            "last_commit": "2026-08-18T09:33:13Z",
+            "last_commit": "2026-08-19T07:27:07Z",
             "owner": "lifeos-plus",
             "repo": "lifeos-cli",
             "stars": 11
@@ -275,6 +285,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 675108347,
             "language": null,
             "last_commit": "2023-08-05T20:25:44Z",
             "owner": "QS-Schema",
@@ -289,6 +300,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1166823026,
             "language": "Python",
             "last_commit": "2026-02-25T18:14:29Z",
             "owner": "chukwumaonyeije",
@@ -303,6 +315,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1207300388,
             "language": "Python",
             "last_commit": "2026-08-18T18:50:34Z",
             "owner": "shenas-org",
@@ -312,16 +325,12 @@
         }
       ],
       "title": "Open Source Projects"
-    },
-    {
-      "description": "To the extent possible under law, Willem Pienaar has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:58:45.084Z",
+    "last_updated": "2026-08-19T12:47:13.562Z",
     "original_repository": "woop/awesome-quantified-self",
+    "original_repository_id": 37207103,
     "original_repository_sha": "230393e33a61e05d494a18a3b598c218d8253224",
     "enhanced_repository": "enhansome/enhansome-quantified-self",
     "enhanced_repository_description": null,
