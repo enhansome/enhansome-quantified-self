@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 21298446,
                 "language": "PHP",
-                "last_commit": "2026-08-18T06:53:57Z",
+                "last_commit": "2026-08-19T14:31:07Z",
                 "owner": "firefly-iii",
                 "repo": "firefly-iii",
-                "stars": 24373
+                "stars": 24375
               }
             },
             {
@@ -81,10 +81,10 @@
                 "archived": false,
                 "id": 304836585,
                 "language": "Go",
-                "last_commit": "2026-08-18T17:44:53Z",
+                "last_commit": "2026-08-19T15:28:45Z",
                 "owner": "mayswind",
                 "repo": "ezbookkeeping",
-                "stars": 5426
+                "stars": 5427
               }
             }
           ],
@@ -107,10 +107,10 @@
             "archived": false,
             "id": 817326197,
             "language": "Rust",
-            "last_commit": "2026-08-19T06:37:37Z",
+            "last_commit": "2026-08-19T22:55:55Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21104
+            "stars": 21116
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11388
+            "stars": 11390
           }
         },
         {
@@ -155,7 +155,7 @@
             "last_commit": "2026-08-11T20:57:18Z",
             "owner": "karlicoss",
             "repo": "HPI",
-            "stars": 1626
+            "stars": 1627
           }
         },
         {
@@ -242,10 +242,10 @@
             "archived": false,
             "id": 1133724679,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T13:27:03Z",
+            "last_commit": "2026-08-19T18:05:41Z",
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 152
+            "stars": 153
           }
         },
         {
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:47:13.562Z",
+    "last_updated": "2026-08-19T22:59:04.542Z",
     "original_repository": "woop/awesome-quantified-self",
     "original_repository_id": 37207103,
     "original_repository_sha": "230393e33a61e05d494a18a3b598c218d8253224",
