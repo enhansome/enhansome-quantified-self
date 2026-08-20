@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 21298446,
                 "language": "PHP",
-                "last_commit": "2026-08-19T14:31:07Z",
+                "last_commit": "2026-08-20T19:14:07Z",
                 "owner": "firefly-iii",
                 "repo": "firefly-iii",
-                "stars": 24375
+                "stars": 24382
               }
             },
             {
@@ -66,10 +66,10 @@
                 "archived": false,
                 "id": 16309,
                 "language": "C++",
-                "last_commit": "2026-07-03T20:57:54Z",
+                "last_commit": "2026-08-20T18:23:38Z",
                 "owner": "ledger",
                 "repo": "ledger",
-                "stars": 6012
+                "stars": 6013
               }
             },
             {
@@ -81,10 +81,10 @@
                 "archived": false,
                 "id": 304836585,
                 "language": "Go",
-                "last_commit": "2026-08-19T15:28:45Z",
+                "last_commit": "2026-08-20T17:39:58Z",
                 "owner": "mayswind",
                 "repo": "ezbookkeeping",
-                "stars": 5427
+                "stars": 5435
               }
             }
           ],
@@ -107,10 +107,10 @@
             "archived": false,
             "id": 817326197,
             "language": "Rust",
-            "last_commit": "2026-08-19T22:55:55Z",
+            "last_commit": "2026-08-20T23:00:17Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21116
+            "stars": 21136
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11390
+            "stars": 11394
           }
         },
         {
@@ -170,7 +170,7 @@
             "last_commit": "2026-05-25T17:20:58Z",
             "owner": "novoid",
             "repo": "Memacs",
-            "stars": 1113
+            "stars": 1109
           }
         },
         {
@@ -257,7 +257,7 @@
             "archived": false,
             "id": 856338875,
             "language": "C#",
-            "last_commit": "2026-08-18T22:34:12Z",
+            "last_commit": "2026-08-20T04:55:39Z",
             "owner": "nopara73",
             "repo": "LongevityWorldCup",
             "stars": 24
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T22:59:04.542Z",
+    "last_updated": "2026-08-20T23:01:17.555Z",
     "original_repository": "woop/awesome-quantified-self",
     "original_repository_id": 37207103,
     "original_repository_sha": "230393e33a61e05d494a18a3b598c218d8253224",
