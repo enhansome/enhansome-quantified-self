@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 21298446,
                 "language": "PHP",
-                "last_commit": "2026-08-20T19:14:07Z",
+                "last_commit": "2026-08-21T14:05:02Z",
                 "owner": "firefly-iii",
                 "repo": "firefly-iii",
-                "stars": 24382
+                "stars": 24389
               }
             },
             {
@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 16309,
                 "language": "C++",
-                "last_commit": "2026-08-20T18:23:38Z",
+                "last_commit": "2026-08-21T06:18:58Z",
                 "owner": "ledger",
                 "repo": "ledger",
                 "stars": 6013
@@ -81,10 +81,10 @@
                 "archived": false,
                 "id": 304836585,
                 "language": "Go",
-                "last_commit": "2026-08-20T17:39:58Z",
+                "last_commit": "2026-08-21T01:39:50Z",
                 "owner": "mayswind",
                 "repo": "ezbookkeeping",
-                "stars": 5435
+                "stars": 5438
               }
             }
           ],
@@ -107,10 +107,10 @@
             "archived": false,
             "id": 817326197,
             "language": "Rust",
-            "last_commit": "2026-08-20T23:00:17Z",
+            "last_commit": "2026-08-21T22:55:46Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21136
+            "stars": 21161
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11394
+            "stars": 11397
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-05-22T04:13:21Z",
             "owner": "timelinize",
             "repo": "timelinize",
-            "stars": 3631
+            "stars": 3632
           }
         },
         {
@@ -242,7 +242,7 @@
             "archived": false,
             "id": 1133724679,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T18:05:41Z",
+            "last_commit": "2026-08-21T09:58:58Z",
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
             "stars": 153
@@ -257,7 +257,7 @@
             "archived": false,
             "id": 856338875,
             "language": "C#",
-            "last_commit": "2026-08-20T04:55:39Z",
+            "last_commit": "2026-08-21T12:04:29Z",
             "owner": "nopara73",
             "repo": "LongevityWorldCup",
             "stars": 24
@@ -272,7 +272,7 @@
             "archived": false,
             "id": 1205537709,
             "language": "Python",
-            "last_commit": "2026-08-19T07:27:07Z",
+            "last_commit": "2026-08-21T04:08:22Z",
             "owner": "lifeos-plus",
             "repo": "lifeos-cli",
             "stars": 11
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T23:01:17.555Z",
+    "last_updated": "2026-08-21T22:59:20.216Z",
     "original_repository": "woop/awesome-quantified-self",
     "original_repository_id": 37207103,
     "original_repository_sha": "230393e33a61e05d494a18a3b598c218d8253224",
