@@ -44,6 +44,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Garmin AI Notifier",
+              "description": "Free daily pipeline that pulls Garmin Connect into SQLite, computes full-history wellness stats, generates a Gemini-written brief, and pushes it to your phone via ntfy, Telegram, or email. Runs on GitHub Actions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1257761550,
+                "language": "Python",
+                "last_commit": "2026-08-23T14:07:55Z",
+                "owner": "deep0410",
+                "repo": "garmin-ai-notifier",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data Collection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AirwayLab",
+              "description": "Browser-based PAP therapy analysis with flow limitation scoring and an oximetry pipeline. All processing runs locally (Web).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1176049836,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T08:29:20Z",
+                "owner": "airwaylab-app",
+                "repo": "airwaylab",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sleep"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Firefly III",
               "description": "A free and open source personal finance manager",
               "children": [],
@@ -51,10 +95,10 @@
                 "archived": false,
                 "id": 21298446,
                 "language": "PHP",
-                "last_commit": "2026-08-23T16:12:18Z",
+                "last_commit": "2026-08-24T12:34:02Z",
                 "owner": "firefly-iii",
                 "repo": "firefly-iii",
-                "stars": 24406
+                "stars": 24407
               }
             },
             {
@@ -84,7 +128,7 @@
                 "last_commit": "2026-08-23T17:53:09Z",
                 "owner": "mayswind",
                 "repo": "ezbookkeeping",
-                "stars": 5448
+                "stars": 5453
               }
             }
           ],
@@ -107,10 +151,10 @@
             "archived": false,
             "id": 817326197,
             "language": "Rust",
-            "last_commit": "2026-08-23T22:50:02Z",
+            "last_commit": "2026-08-24T13:34:51Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21189
+            "stars": 21202
           }
         },
         {
@@ -242,7 +286,7 @@
             "archived": false,
             "id": 1133724679,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T09:58:58Z",
+            "last_commit": "2026-08-24T10:49:34Z",
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
             "stars": 155
@@ -257,7 +301,7 @@
             "archived": false,
             "id": 856338875,
             "language": "C#",
-            "last_commit": "2026-08-21T12:04:29Z",
+            "last_commit": "2026-08-24T04:56:09Z",
             "owner": "nopara73",
             "repo": "LongevityWorldCup",
             "stars": 25
@@ -272,7 +316,7 @@
             "archived": false,
             "id": 1205537709,
             "language": "Python",
-            "last_commit": "2026-08-23T06:23:43Z",
+            "last_commit": "2026-08-24T12:45:23Z",
             "owner": "lifeos-plus",
             "repo": "lifeos-cli",
             "stars": 11
@@ -328,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:56:51.492Z",
+    "last_updated": "2026-08-24T14:01:23.742Z",
     "original_repository": "woop/awesome-quantified-self",
     "original_repository_id": 37207103,
     "original_repository_sha": "230393e33a61e05d494a18a3b598c218d8253224",
