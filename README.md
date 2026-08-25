@@ -202,9 +202,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Wealth
 
-* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,413 | 🐛 165 | 🌐 PHP | 📅 2026-08-24 - A free and open source personal finance manager
+* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,414 | 🐛 166 | 🌐 PHP | 📅 2026-08-24 - A free and open source personal finance manager
 * [Ledger](https://github.com/ledger/ledger) ⭐ 6,017 | 🐛 14 | 🌐 C++ | 📅 2026-08-22 - Simple but powerful command line accounting.
-* [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) ⭐ 5,456 | 🐛 10 | 🌐 Go | 📅 2026-08-24 - A lightweight, self-hosted personal finance and bookkeeping app.
+* [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) ⭐ 5,457 | 🐛 10 | 🌐 Go | 📅 2026-08-24 - A lightweight, self-hosted personal finance and bookkeeping app.
 * [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 * [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 * [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
@@ -246,8 +246,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Open Source Projects
 
-* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,206 | 🐛 84 | 🌐 Rust | 📅 2026-08-24 - 24/7 local screen and audio recording with AI-powered search. Captures everything you see, say, and hear for personal analytics and lifelogging.
-* [Datasette](https://github.com/simonw/datasette) ⭐ 11,406 | 🐛 709 | 🌐 Python | 📅 2026-08-14 - An open source multi-tool for exploring and publishing data.
+* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,208 | 🐛 88 | 🌐 Rust | 📅 2026-08-25 - 24/7 local screen and audio recording with AI-powered search. Captures everything you see, say, and hear for personal analytics and lifelogging.
+* [Datasette](https://github.com/simonw/datasette) ⭐ 11,408 | 🐛 709 | 🌐 Python | 📅 2026-08-14 - An open source multi-tool for exploring and publishing data.
 * [Timelinize](https://github.com/timelinize/timelinize) ⭐ 3,635 | 🐛 56 | 🌐 Go | 📅 2026-05-22 - A data aggregation and and timeline visualization tool.
 * [HumanProgrammingInterface](https://github.com/karlicoss/HPI) ⭐ 1,628 | 🐛 21 | 🌐 Python | 📅 2026-08-11 - Unify, acces and interact with all of your personal data.
 * [Memacs](https://github.com/novoid/Memacs) ⭐ 1,109 | 🐛 20 | 🌐 Python | 📅 2026-05-25 - Visualize your life in Orgmode.
@@ -256,7 +256,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Chronicle](https://github.com/chronicle-app/chronicle-etl) ⭐ 197 | 🐛 29 | 🌐 Ruby | 📅 2024-05-02 - A CLI toolkit for extracting and working with your digital history.
 * [GitStory](https://github.com/pankajkumardev/gitstory-2025) ⭐ 177 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-31 - Generates a "Spotify Wrapped" style visual summary of your yearly GitHub contribution activity.
 * [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) ⭐ 156 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-24 - Self-hosted CLI that reads BLE smart scales (23 brands), calculates body composition (fat %, muscle, BMR, etc.), and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. [Website](https://blescalesync.dev).
-* [Longevity World Cup](https://github.com/nopara73/LongevityWorldCup) ⭐ 26 | 🐛 187 | 🌐 C# | 📅 2026-08-24 - Open source healthspan competition platform with biological age calculators, athlete profiles, and public leaderboards.
+* [Longevity World Cup](https://github.com/nopara73/LongevityWorldCup) ⭐ 26 | 🐛 186 | 🌐 C# | 📅 2026-08-25 - Open source healthspan competition platform with biological age calculators, athlete profiles, and public leaderboards.
 * [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2026-08-24 - Terminal-native LifeOS for personal workflows, habits, and timelogs.
 * [QS-Schema](https://github.com/QS-Schema/qs-schema) ⭐ 2 | 🐛 4 | 📅 2023-08-05 - Open schemes for QS applications.
 * [PGIS](https://github.com/chukwumaonyeije/pgis-manus-skill#readme) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-02-25 - Open-source decision-support framework for optimizing endurance training while managing Type 2 diabetes, integrating CGM, HRV, sleep, and training load data.
@@ -273,4 +273,4 @@ To the extent possible under law, [Willem Pienaar](https://github.com/willempien
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

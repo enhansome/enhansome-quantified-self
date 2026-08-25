@@ -98,7 +98,7 @@
                 "last_commit": "2026-08-24T14:22:51Z",
                 "owner": "firefly-iii",
                 "repo": "firefly-iii",
-                "stars": 24413
+                "stars": 24414
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2026-08-24T16:48:47Z",
                 "owner": "mayswind",
                 "repo": "ezbookkeeping",
-                "stars": 5456
+                "stars": 5457
               }
             }
           ],
@@ -151,10 +151,10 @@
             "archived": false,
             "id": 817326197,
             "language": "Rust",
-            "last_commit": "2026-08-24T21:39:52Z",
+            "last_commit": "2026-08-25T02:14:18Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21206
+            "stars": 21208
           }
         },
         {
@@ -169,7 +169,7 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11406
+            "stars": 11408
           }
         },
         {
@@ -301,7 +301,7 @@
             "archived": false,
             "id": 856338875,
             "language": "C#",
-            "last_commit": "2026-08-24T04:56:09Z",
+            "last_commit": "2026-08-25T04:48:12Z",
             "owner": "nopara73",
             "repo": "LongevityWorldCup",
             "stars": 26
@@ -372,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:59:54.468Z",
+    "last_updated": "2026-08-25T05:55:13.838Z",
     "original_repository": "woop/awesome-quantified-self",
     "original_repository_id": 37207103,
     "original_repository_sha": "230393e33a61e05d494a18a3b598c218d8253224",
