@@ -95,7 +95,7 @@
                 "archived": false,
                 "id": 21298446,
                 "language": "PHP",
-                "last_commit": "2026-08-26T18:29:07Z",
+                "last_commit": "2026-08-27T06:50:22Z",
                 "owner": "firefly-iii",
                 "repo": "firefly-iii",
                 "stars": 24428
@@ -110,7 +110,7 @@
                 "archived": false,
                 "id": 16309,
                 "language": "C++",
-                "last_commit": "2026-08-26T22:22:11Z",
+                "last_commit": "2026-08-27T09:53:26Z",
                 "owner": "ledger",
                 "repo": "ledger",
                 "stars": 6019
@@ -128,7 +128,7 @@
                 "last_commit": "2026-08-26T16:48:40Z",
                 "owner": "mayswind",
                 "repo": "ezbookkeeping",
-                "stars": 5473
+                "stars": 5475
               }
             }
           ],
@@ -151,10 +151,10 @@
             "archived": false,
             "id": 817326197,
             "language": "Rust",
-            "last_commit": "2026-08-27T03:16:59Z",
+            "last_commit": "2026-08-27T04:03:08Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21246
+            "stars": 21251
           }
         },
         {
@@ -184,7 +184,7 @@
             "last_commit": "2026-05-22T04:13:21Z",
             "owner": "timelinize",
             "repo": "timelinize",
-            "stars": 3636
+            "stars": 3637
           }
         },
         {
@@ -301,7 +301,7 @@
             "archived": false,
             "id": 856338875,
             "language": "C#",
-            "last_commit": "2026-08-25T22:21:11Z",
+            "last_commit": "2026-08-27T10:51:17Z",
             "owner": "nopara73",
             "repo": "LongevityWorldCup",
             "stars": 26
@@ -316,7 +316,7 @@
             "archived": false,
             "id": 1205537709,
             "language": "Python",
-            "last_commit": "2026-08-26T06:41:08Z",
+            "last_commit": "2026-08-27T11:50:42Z",
             "owner": "lifeos-plus",
             "repo": "lifeos-cli",
             "stars": 11
@@ -372,9 +372,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:33:22.553Z",
-    "original_repository": "woop/awesome-quantified-self",
-    "original_repository_id": 37207103,
+    "last_updated": "2026-08-27T11:59:57.853Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 37207103,
+      "language": null,
+      "last_commit": "2026-07-06T15:22:48Z",
+      "owner": "woop",
+      "repo": "awesome-quantified-self",
+      "stars": 2765
+    },
     "original_repository_sha": "230393e33a61e05d494a18a3b598c218d8253224",
     "enhanced_repository": "enhansome/enhansome-quantified-self",
     "enhanced_repository_description": null,
