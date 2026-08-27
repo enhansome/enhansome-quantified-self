@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 1257761550,
                 "language": "Python",
-                "last_commit": "2026-08-25T14:08:03Z",
+                "last_commit": "2026-08-26T14:08:20Z",
                 "owner": "deep0410",
                 "repo": "garmin-ai-notifier",
                 "stars": 1
@@ -95,10 +95,10 @@
                 "archived": false,
                 "id": 21298446,
                 "language": "PHP",
-                "last_commit": "2026-08-25T15:44:07Z",
+                "last_commit": "2026-08-26T18:29:07Z",
                 "owner": "firefly-iii",
                 "repo": "firefly-iii",
-                "stars": 24416
+                "stars": 24428
               }
             },
             {
@@ -110,10 +110,10 @@
                 "archived": false,
                 "id": 16309,
                 "language": "C++",
-                "last_commit": "2026-08-22T07:18:04Z",
+                "last_commit": "2026-08-26T22:22:11Z",
                 "owner": "ledger",
                 "repo": "ledger",
-                "stars": 6017
+                "stars": 6019
               }
             },
             {
@@ -125,10 +125,10 @@
                 "archived": false,
                 "id": 304836585,
                 "language": "Go",
-                "last_commit": "2026-08-25T17:59:24Z",
+                "last_commit": "2026-08-26T16:48:40Z",
                 "owner": "mayswind",
                 "repo": "ezbookkeeping",
-                "stars": 5464
+                "stars": 5473
               }
             }
           ],
@@ -151,10 +151,10 @@
             "archived": false,
             "id": 817326197,
             "language": "Rust",
-            "last_commit": "2026-08-25T22:43:49Z",
+            "last_commit": "2026-08-27T03:16:59Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21226
+            "stars": 21246
           }
         },
         {
@@ -169,7 +169,7 @@
             "last_commit": "2026-08-14T00:11:42Z",
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11411
+            "stars": 11412
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-08-11T20:57:18Z",
             "owner": "karlicoss",
             "repo": "HPI",
-            "stars": 1628
+            "stars": 1629
           }
         },
         {
@@ -286,10 +286,10 @@
             "archived": false,
             "id": 1133724679,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T16:03:47Z",
+            "last_commit": "2026-08-26T21:29:44Z",
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 156
+            "stars": 158
           }
         },
         {
@@ -316,7 +316,7 @@
             "archived": false,
             "id": 1205537709,
             "language": "Python",
-            "last_commit": "2026-08-25T13:12:42Z",
+            "last_commit": "2026-08-26T06:41:08Z",
             "owner": "lifeos-plus",
             "repo": "lifeos-cli",
             "stars": 11
@@ -372,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:01:18.392Z",
+    "last_updated": "2026-08-27T03:33:22.553Z",
     "original_repository": "woop/awesome-quantified-self",
     "original_repository_id": 37207103,
     "original_repository_sha": "230393e33a61e05d494a18a3b598c218d8253224",
