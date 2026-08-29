@@ -202,7 +202,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Wealth
 
-* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,446 | 🐛 170 | 🌐 PHP | 📅 2026-08-28 - A free and open source personal finance manager
+* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,447 | 🐛 170 | 🌐 PHP | 📅 2026-08-29 - A free and open source personal finance manager
 * [Ledger](https://github.com/ledger/ledger) ⭐ 6,020 | 🐛 19 | 🌐 C++ | 📅 2026-08-28 - Simple but powerful command line accounting.
 * [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) ⭐ 5,483 | 🐛 10 | 🌐 Go | 📅 2026-08-28 - A lightweight, self-hosted personal finance and bookkeeping app.
 * [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.

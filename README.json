@@ -170,11 +170,11 @@
                 "id": 21298446,
                 "language": "PHP",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-28T13:53:35Z",
+                "last_commit": "2026-08-29T04:23:29Z",
                 "open_issues": 170,
                 "owner": "firefly-iii",
                 "repo": "firefly-iii",
-                "stars": 24446,
+                "stars": 24447,
                 "topics": [
                   "accounting",
                   "budget",
@@ -755,7 +755,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:52:22.810Z",
+    "last_updated": "2026-08-29T04:25:09.408Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking",
