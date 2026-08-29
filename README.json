@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple dashboard to visualize trends in bloodwork biomarkers",
+                "homepage": null,
                 "id": 679385548,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-11-17T21:38:36Z",
+                "open_issues": 5,
                 "owner": "NoTranslationLayer",
                 "repo": "biomarkerdash",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:20:44.608Z"
             },
@@ -28,12 +33,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Track and visualize your blood test results over time with AI-powered data extraction",
+                "homepage": "http://bloodboy.report/",
                 "id": 1081808417,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-19T02:45:48Z",
+                "open_issues": 1,
                 "owner": "ashugaev",
                 "repo": "bloodboy-biomarkers-tracker",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "blood-test",
+                  "blood-work",
+                  "blood-work-tracking",
+                  "csv-export",
+                  "health-data-analysis",
+                  "health-data-csv-export",
+                  "health-data-tracker",
+                  "health-data-visualization",
+                  "health-monitoring",
+                  "health-monitoring-application",
+                  "health-report",
+                  "health-tracking",
+                  "lab-results",
+                  "medical-records",
+                  "medical-records-management",
+                  "medical-records-parsing",
+                  "personal-health",
+                  "privacy-first",
+                  "self-quantified",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T06:20:44.608Z"
             }
@@ -51,12 +82,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free, automated daily AI brief on your Garmin data. Pulls Garmin Connect into SQLite, computes full-history stats, and pushes a Gemini-written insight to your phone. $0 to run.",
+                "homepage": null,
                 "id": 1257761550,
                 "language": "Python",
-                "last_commit": "2026-08-27T14:07:57Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T14:07:56Z",
+                "open_issues": 0,
                 "owner": "deep0410",
                 "repo": "garmin-ai-notifier",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "fitness",
+                  "garmin",
+                  "garmin-connect",
+                  "gemini",
+                  "github-actions",
+                  "health-data",
+                  "llm",
+                  "ntfy",
+                  "python",
+                  "quantified-self",
+                  "self-hosted",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-28T06:20:44.608Z"
             }
@@ -74,12 +123,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free, open-source airway analysis for ResMed CPAP/BiPAP data",
+                "homepage": "https://airwaylab.app",
                 "id": 1176049836,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-13T08:29:20Z",
+                "open_issues": 55,
                 "owner": "airwaylab-app",
                 "repo": "airwaylab",
-                "stars": 34
+                "stars": 35,
+                "topics": [
+                  "bipap",
+                  "cpap",
+                  "edf",
+                  "flow-limitation",
+                  "health",
+                  "nextjs",
+                  "open-source",
+                  "oscar-alternative",
+                  "resmed",
+                  "sleep-analysis",
+                  "sleep-apnea",
+                  "sleep-tracking",
+                  "uars"
+                ]
               },
               "first_seen": "2026-08-28T06:20:44.608Z"
             }
@@ -97,12 +165,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Firefly III: a personal finances manager",
+                "homepage": "https://firefly-iii.org/",
                 "id": 21298446,
                 "language": "PHP",
-                "last_commit": "2026-08-28T05:29:57Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-28T13:53:35Z",
+                "open_issues": 170,
                 "owner": "firefly-iii",
                 "repo": "firefly-iii",
-                "stars": 24437
+                "stars": 24446,
+                "topics": [
+                  "accounting",
+                  "budget",
+                  "budgeting",
+                  "budgets",
+                  "cash-flow",
+                  "cashflow",
+                  "credit-card",
+                  "docker",
+                  "expenses",
+                  "finance",
+                  "finances",
+                  "financial",
+                  "linux",
+                  "money",
+                  "paycheck",
+                  "personal-finance",
+                  "php",
+                  "php7"
+                ]
               },
               "first_seen": "2026-08-28T06:20:44.608Z"
             },
@@ -113,12 +205,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Double-entry accounting system with a command-line reporting interface",
+                "homepage": "https://www.ledger-cli.org",
                 "id": 16309,
                 "language": "C++",
-                "last_commit": "2026-08-27T23:37:51Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T16:32:43Z",
+                "open_issues": 19,
                 "owner": "ledger",
                 "repo": "ledger",
-                "stars": 6019
+                "stars": 6020,
+                "topics": [
+                  "accounting",
+                  "command-line-tool",
+                  "ledger",
+                  "plaintext-accounting"
+                ]
               },
               "first_seen": "2026-08-28T06:20:44.608Z"
             },
@@ -129,12 +231,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+                "homepage": "https://ezbookkeeping.mayswind.net",
                 "id": 304836585,
                 "language": "Go",
-                "last_commit": "2026-08-27T18:31:44Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T17:00:40Z",
+                "open_issues": 10,
                 "owner": "mayswind",
                 "repo": "ezbookkeeping",
-                "stars": 5480
+                "stars": 5483,
+                "topics": [
+                  "accounting",
+                  "app",
+                  "bookkeeping",
+                  "docker",
+                  "expense-manager",
+                  "expense-tracker",
+                  "expenses",
+                  "finance",
+                  "finance-management",
+                  "finances",
+                  "financial",
+                  "golang",
+                  "homelab",
+                  "mobile",
+                  "money",
+                  "money-manager",
+                  "personal-finance",
+                  "self-hosted",
+                  "typescript",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T06:20:44.608Z"
             }
@@ -156,12 +284,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)",
+            "homepage": "https://screenpipe.com",
             "id": 817326197,
             "language": "Rust",
-            "last_commit": "2026-08-28T04:42:05Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T01:44:03Z",
+            "open_issues": 59,
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21268
+            "stars": 21281,
+            "topics": [
+              "agents",
+              "agi",
+              "ai",
+              "ai-memory",
+              "audio-recording",
+              "computer-vision",
+              "hermes",
+              "hermes-agent",
+              "llm",
+              "local-ai",
+              "local-first",
+              "machine-learning",
+              "mcp",
+              "multimodal",
+              "openclaw",
+              "privacy",
+              "rewind",
+              "screen-recording",
+              "speech-to-text",
+              "ycombinator"
+            ]
           },
           "first_seen": "2026-08-28T06:20:44.608Z"
         },
@@ -172,12 +326,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source multi-tool for exploring and publishing data",
+            "homepage": "https://datasette.io",
             "id": 107914493,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T00:11:42Z",
+            "open_issues": 710,
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11413
+            "stars": 11415,
+            "topics": [
+              "asgi",
+              "automatic-api",
+              "csv",
+              "datasets",
+              "datasette",
+              "datasette-io",
+              "docker",
+              "json",
+              "python",
+              "sql",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T06:20:44.608Z"
         },
@@ -188,12 +359,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Store your data from all your accounts and devices in a single cohesive timeline on your own computer",
+            "homepage": "https://timelinize.com",
             "id": 841044067,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-05-22T04:13:21Z",
+            "open_issues": 56,
             "owner": "timelinize",
             "repo": "timelinize",
-            "stars": 3638
+            "stars": 3638,
+            "topics": [
+              "archival",
+              "data-archiving",
+              "data-import",
+              "family-history",
+              "self-hosted",
+              "timeline"
+            ]
           },
           "first_seen": "2026-08-28T06:20:44.608Z"
         },
@@ -204,12 +387,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Human Programming Interface 🧑👽🤖",
+            "homepage": "https://beepb00p.xyz/hpi.html",
             "id": 209134309,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-11T20:57:18Z",
+            "open_issues": 21,
             "owner": "karlicoss",
             "repo": "HPI",
-            "stars": 1629
+            "stars": 1629,
+            "topics": [
+              "data-liberation",
+              "extended-mind",
+              "lifelogging",
+              "personal-api",
+              "quantified-self"
+            ]
           },
           "first_seen": "2026-08-28T06:20:44.608Z"
         },
@@ -220,12 +414,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "What did I do on February 14th 2007? Visualize your (digital) life in Org-mode",
+            "homepage": null,
             "id": 2092708,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-25T17:20:58Z",
+            "open_issues": 20,
             "owner": "novoid",
             "repo": "Memacs",
-            "stars": 1109
+            "stars": 1109,
+            "topics": [
+              "emacs",
+              "email",
+              "files",
+              "filesystem",
+              "git",
+              "org-mode",
+              "orgmode",
+              "personal-information-management",
+              "pim",
+              "python",
+              "quantified-self",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T06:20:44.608Z"
         },
@@ -236,12 +448,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extensible, personal API with custom integrations",
+            "homepage": "http://api.danielfang.org",
             "id": 36276392,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-29T04:21:27Z",
+            "open_issues": 5,
             "owner": "danfang",
             "repo": "me-api",
-            "stars": 839
+            "stars": 839,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:20:44.608Z"
         },
@@ -252,12 +469,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A public release of TimelineBuilder for building personal digital data timelines.",
+            "homepage": null,
             "id": 653337426,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-03T16:37:14Z",
+            "open_issues": 0,
             "owner": "facebookresearch",
             "repo": "personal-timeline",
-            "stars": 372
+            "stars": 372,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:20:44.608Z"
         },
@@ -268,12 +490,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📜 A CLI toolkit for extracting and working with your digital history",
+            "homepage": "https://chronicle.app/",
             "id": 284381194,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-05-02T03:03:04Z",
+            "open_issues": 29,
             "owner": "chronicle-app",
             "repo": "chronicle-etl",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "archiving",
+              "chronicle",
+              "chronicle-etl",
+              "cli",
+              "csv",
+              "data-liberation",
+              "etl",
+              "json",
+              "memex",
+              "personal-archive",
+              "personal-data",
+              "quantified-self",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T06:20:44.608Z"
         },
@@ -284,12 +525,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitStory 2025 - Your Year in Code GitHub Wrapped ",
+            "homepage": "https://gitstory.pankajk.tech/",
             "id": 1111862111,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-31T16:27:57Z",
+            "open_issues": 0,
             "owner": "PankajKumardev",
             "repo": "gitstory-2025",
-            "stars": 177
+            "stars": 177,
+            "topics": [
+              "github",
+              "github-wrapped",
+              "github-wrapped-2025",
+              "gitstory"
+            ]
           },
           "first_seen": "2026-08-28T06:20:44.608Z"
         },
@@ -300,12 +551,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal BLE Smart Scale bridge. Captures body composition from Renpho, Xiaomi & 20+ others, syncs to Garmin Connect, Strava, MQTT (Home Assistant), InfluxDB, Webhooks, Ntfy & local files (CSV/JSONL). Headless CLI for Raspberry Pi, Linux, macOS & Windows.",
+            "homepage": "https://blescalesync.dev",
             "id": 1133724679,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T21:29:44Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T09:42:33Z",
+            "open_issues": 14,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 158
+            "stars": 161,
+            "topics": [
+              "ble",
+              "body-composition",
+              "csv",
+              "garmin",
+              "garmin-connect",
+              "health-data",
+              "home-assistant",
+              "influxdb",
+              "mqtt",
+              "nodejs",
+              "ntfy",
+              "quantified-self",
+              "raspberry-pi",
+              "renpho",
+              "self-hosted",
+              "smart-scale",
+              "strava",
+              "typescript",
+              "webhook",
+              "xiaomi"
+            ]
           },
           "first_seen": "2026-08-28T06:20:44.608Z"
         },
@@ -316,12 +593,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source longevity sport platform with biological-age calculators, athlete profiles, and public leaderboards.",
+            "homepage": "https://www.longevityworldcup.com/",
             "id": 856338875,
             "language": "C#",
-            "last_commit": "2026-08-28T04:52:14Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T01:49:06Z",
+            "open_issues": 186,
             "owner": "nopara73",
             "repo": "LongevityWorldCup",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "aging-clock",
+              "aspnet-core",
+              "aspnetcore",
+              "biohacking",
+              "biological-age",
+              "csharp",
+              "digital-health",
+              "dotnet",
+              "health-data",
+              "healthspan",
+              "llms-txt",
+              "llmstxt",
+              "longevity",
+              "open-data",
+              "open-source",
+              "openapi",
+              "public-api",
+              "pwa",
+              "quantified-self",
+              "web-application"
+            ]
           },
           "first_seen": "2026-08-28T06:20:44.608Z"
         },
@@ -332,12 +635,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terminal-native LifeOS with an optional local Web UI for tasks, notes, habits, schedules, timelogs, relationships, and human-agent collaboration.",
+            "homepage": null,
             "id": 1205537709,
             "language": "Python",
-            "last_commit": "2026-08-28T02:49:25Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T06:45:36Z",
+            "open_issues": 1,
             "owner": "lifeos-plus",
             "repo": "lifeos-cli",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "agentic-workflows",
+              "ai-agents",
+              "cli",
+              "fastapi",
+              "habit-tracking",
+              "lifeos",
+              "local-first",
+              "note-taking",
+              "personal-crm",
+              "postgresql",
+              "python",
+              "quantified-self",
+              "react",
+              "schedule-management",
+              "second-brain",
+              "sqlite",
+              "task-management",
+              "time-tracking",
+              "vite",
+              "web-ui"
+            ]
           },
           "first_seen": "2026-08-28T06:20:44.608Z"
         },
@@ -348,12 +677,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 675108347,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-05T20:25:44Z",
+            "open_issues": 4,
             "owner": "QS-Schema",
             "repo": "qs-schema",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:20:44.608Z"
         },
@@ -364,12 +698,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🩺 Open-source decision-support framework for optimizing endurance training while managing Type 2 diabetes. Integrates CGM, HRV, sleep & training load into a GREEN/YELLOW/RED daily readiness model. Built by a physician-developer. | DoctorsWhoCode.blog",
+            "homepage": "https://manus.space",
             "id": 1166823026,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-25T18:14:29Z",
+            "open_issues": 0,
             "owner": "chukwumaonyeije",
             "repo": "pgis-manus-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "cgm",
+              "diabetes",
+              "doctors-who-code",
+              "endurance-training",
+              "health-tech",
+              "hrv",
+              "open-source",
+              "physician-developer",
+              "python",
+              "type2-diabetes"
+            ]
           },
           "first_seen": "2026-08-28T06:20:44.608Z"
         },
@@ -380,12 +730,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personal analytics platform -- track, transform, and understand your data",
+            "homepage": null,
             "id": 1207300388,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T18:50:34Z",
+            "open_issues": 0,
             "owner": "shenas-org",
             "repo": "shenas",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "data-pipeline",
+              "duckdb",
+              "personal-analytics",
+              "quantified-self",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T06:20:44.608Z"
         }
@@ -394,15 +755,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:20:44.608Z",
+    "last_updated": "2026-08-29T03:52:22.810Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking",
+      "homepage": null,
       "id": 37207103,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-07-06T15:22:48Z",
+      "open_issues": 39,
       "owner": "woop",
       "repo": "awesome-quantified-self",
-      "stars": 2765
+      "stars": 2766,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list",
+        "lists",
+        "quantified",
+        "quantified-self",
+        "self",
+        "tracking",
+        "wearables"
+      ]
     },
     "original_repository_sha": "230393e33a61e05d494a18a3b598c218d8253224",
     "enhanced_repository": "enhansome/enhansome-quantified-self",
