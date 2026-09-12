@@ -95,7 +95,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Data Collection
 
-* [Garmin AI Notifier](https://github.com/deep0410/garmin-ai-notifier) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-09-10 - Free daily pipeline that pulls Garmin Connect into SQLite, computes full-history wellness stats, generates a Gemini-written brief, and pushes it to your phone via ntfy, Telegram, or email. Runs on GitHub Actions.
+* [Garmin AI Notifier](https://github.com/deep0410/garmin-ai-notifier) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-09-11 - Free daily pipeline that pulls Garmin Connect into SQLite, computes full-history wellness stats, generates a Gemini-written brief, and pushes it to your phone via ntfy, Telegram, or email. Runs on GitHub Actions.
 * [AskMeEvery](https://www.askmeevery.com/) - Automated data entry through email or text questions.
 * [Reporter](http://www.reporter-app.com/) - Tracking app that collects data through random surveys (iOS).
 * [Reflect](https://ntl.ai/reflect) - Tracking app with customizable forms and data insights (iOS).
@@ -176,7 +176,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Sleep
 
-* [AirwayLab](https://github.com/airwaylab-app/airwaylab) ⭐ 36 | 🐛 68 | 🌐 TypeScript | 📅 2026-08-13 - Browser-based PAP therapy analysis with flow limitation scoring and an oximetry pipeline. All processing runs locally (Web).
+* [AirwayLab](https://github.com/airwaylab-app/airwaylab) ⭐ 37 | 🐛 69 | 🌐 TypeScript | 📅 2026-08-13 - Browser-based PAP therapy analysis with flow limitation scoring and an oximetry pipeline. All processing runs locally (Web).
 * [Sleep as Android](http://sleep.urbandroid.org/) - Full featured sleep tracker with wearable integration (Android).
 * [Sleep Cycle](https://www.sleepcycle.com/) - Intelligent alarm clock and sleep tracker (iOS & Android).
 * [Pillow](https://neybox.com/pillow/) - Track your sleep from your Apple Watch or iPhone (iOS).
@@ -202,9 +202,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Wealth
 
-* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,568 | 🐛 169 | 🌐 PHP | 📅 2026-09-10 - A free and open source personal finance manager
-* [Ledger](https://github.com/ledger/ledger) ⭐ 6,033 | 🐛 18 | 🌐 C++ | 📅 2026-09-05 - Simple but powerful command line accounting.
-* [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) ⭐ 5,558 | 🐛 10 | 🌐 Go | 📅 2026-09-10 - A lightweight, self-hosted personal finance and bookkeeping app.
+* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,581 | 🐛 171 | 🌐 PHP | 📅 2026-09-11 - A free and open source personal finance manager
+* [Ledger](https://github.com/ledger/ledger) ⭐ 6,034 | 🐛 18 | 🌐 C++ | 📅 2026-09-05 - Simple but powerful command line accounting.
+* [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) ⭐ 5,562 | 🐛 10 | 🌐 Go | 📅 2026-09-10 - A lightweight, self-hosted personal finance and bookkeeping app.
 * [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 * [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 * [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
@@ -246,8 +246,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Open Source Projects
 
-* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,523 | 🐛 36 | 🌐 Rust | 📅 2026-09-11 - 24/7 local screen and audio recording with AI-powered search. Captures everything you see, say, and hear for personal analytics and lifelogging.
-* [Datasette](https://github.com/simonw/datasette) ⭐ 11,453 | 🐛 716 | 🌐 Python | 📅 2026-09-11 - An open source multi-tool for exploring and publishing data.
+* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,538 | 🐛 36 | 🌐 Rust | 📅 2026-09-12 - 24/7 local screen and audio recording with AI-powered search. Captures everything you see, say, and hear for personal analytics and lifelogging.
+* [Datasette](https://github.com/simonw/datasette) ⭐ 11,454 | 🐛 717 | 🌐 Python | 📅 2026-09-11 - An open source multi-tool for exploring and publishing data.
 * [Timelinize](https://github.com/timelinize/timelinize) ⭐ 3,661 | 🐛 56 | 🌐 Go | 📅 2026-05-22 - A data aggregation and and timeline visualization tool.
 * [HumanProgrammingInterface](https://github.com/karlicoss/HPI) ⭐ 1,630 | 🐛 21 | 🌐 Python | 📅 2026-09-04 - Unify, acces and interact with all of your personal data.
 * [Memacs](https://github.com/novoid/Memacs) ⭐ 1,109 | 🐛 20 | 🌐 Python | 📅 2026-05-25 - Visualize your life in Orgmode.
@@ -273,4 +273,4 @@ To the extent possible under law, [Willem Pienaar](https://github.com/willempien
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
