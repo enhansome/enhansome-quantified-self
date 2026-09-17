@@ -176,7 +176,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Sleep
 
-* [AirwayLab](https://github.com/airwaylab-app/airwaylab) ⭐ 39 | 🐛 80 | 🌐 TypeScript | 📅 2026-08-13 - Browser-based PAP therapy analysis with flow limitation scoring and an oximetry pipeline. All processing runs locally (Web).
+* [AirwayLab](https://github.com/airwaylab-app/airwaylab) ⭐ 39 | 🐛 81 | 🌐 TypeScript | 📅 2026-08-13 - Browser-based PAP therapy analysis with flow limitation scoring and an oximetry pipeline. All processing runs locally (Web).
 * [Sleep as Android](http://sleep.urbandroid.org/) - Full featured sleep tracker with wearable integration (Android).
 * [Sleep Cycle](https://www.sleepcycle.com/) - Intelligent alarm clock and sleep tracker (iOS & Android).
 * [Pillow](https://neybox.com/pillow/) - Track your sleep from your Apple Watch or iPhone (iOS).
@@ -202,9 +202,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Wealth
 
-* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,637 | 🐛 166 | 🌐 PHP | 📅 2026-09-15 - A free and open source personal finance manager
-* [Ledger](https://github.com/ledger/ledger) ⭐ 6,035 | 🐛 19 | 🌐 C++ | 📅 2026-09-05 - Simple but powerful command line accounting.
-* [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) ⭐ 5,581 | 🐛 10 | 🌐 Go | 📅 2026-09-14 - A lightweight, self-hosted personal finance and bookkeeping app.
+* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,644 | 🐛 168 | 🌐 PHP | 📅 2026-09-16 - A free and open source personal finance manager
+* [Ledger](https://github.com/ledger/ledger) ⭐ 6,037 | 🐛 19 | 🌐 C++ | 📅 2026-09-05 - Simple but powerful command line accounting.
+* [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) ⭐ 5,591 | 🐛 11 | 🌐 Go | 📅 2026-09-16 - A lightweight, self-hosted personal finance and bookkeeping app.
 * [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 * [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 * [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
@@ -246,8 +246,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Open Source Projects
 
-* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,589 | 🐛 49 | 🌐 Rust | 📅 2026-09-16 - 24/7 local screen and audio recording with AI-powered search. Captures everything you see, say, and hear for personal analytics and lifelogging.
-* [Datasette](https://github.com/simonw/datasette) ⭐ 11,467 | 🐛 665 | 🌐 Python | 📅 2026-09-16 - An open source multi-tool for exploring and publishing data.
+* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,603 | 🐛 47 | 🌐 TypeScript | 📅 2026-09-17 - 24/7 local screen and audio recording with AI-powered search. Captures everything you see, say, and hear for personal analytics and lifelogging.
+* [Datasette](https://github.com/simonw/datasette) ⭐ 11,469 | 🐛 653 | 🌐 Python | 📅 2026-09-17 - An open source multi-tool for exploring and publishing data.
 * [Timelinize](https://github.com/timelinize/timelinize) ⭐ 3,669 | 🐛 56 | 🌐 Go | 📅 2026-05-22 - A data aggregation and and timeline visualization tool.
 * [HumanProgrammingInterface](https://github.com/karlicoss/HPI) ⭐ 1,630 | 🐛 21 | 🌐 Python | 📅 2026-09-12 - Unify, acces and interact with all of your personal data.
 * [Memacs](https://github.com/novoid/Memacs) ⭐ 1,110 | 🐛 20 | 🌐 Python | 📅 2026-05-25 - Visualize your life in Orgmode.
@@ -255,9 +255,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [TimelineBuilder](https://github.com/facebookresearch/personal-timeline) ⚠️ Archived - A data aggregation and and timeline visualization tool by Facebook.
 * [Chronicle](https://github.com/chronicle-app/chronicle-etl) ⭐ 198 | 🐛 29 | 🌐 Ruby | 📅 2024-05-02 - A CLI toolkit for extracting and working with your digital history.
 * [GitStory](https://github.com/pankajkumardev/gitstory-2025) ⭐ 177 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-31 - Generates a "Spotify Wrapped" style visual summary of your yearly GitHub contribution activity.
-* [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) ⭐ 172 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-14 - Self-hosted CLI that reads BLE smart scales (23 brands), calculates body composition (fat %, muscle, BMR, etc.), and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. [Website](https://blescalesync.dev).
-* [Longevity World Cup](https://github.com/nopara73/LongevityWorldCup) ⭐ 26 | 🐛 183 | 🌐 C# | 📅 2026-09-16 - Open source healthspan competition platform with biological age calculators, athlete profiles, and public leaderboards.
-* [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-09-12 - Terminal-native LifeOS for personal workflows, habits, and timelogs.
+* [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) ⭐ 173 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-14 - Self-hosted CLI that reads BLE smart scales (23 brands), calculates body composition (fat %, muscle, BMR, etc.), and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. [Website](https://blescalesync.dev).
+* [Longevity World Cup](https://github.com/nopara73/LongevityWorldCup) ⭐ 26 | 🐛 177 | 🌐 C# | 📅 2026-09-17 - Open source healthspan competition platform with biological age calculators, athlete profiles, and public leaderboards.
+* [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-09-17 - Terminal-native LifeOS for personal workflows, habits, and timelogs.
 * [QS-Schema](https://github.com/QS-Schema/qs-schema) ⭐ 2 | 🐛 4 | 📅 2023-08-05 - Open schemes for QS applications.
 * [PGIS](https://github.com/chukwumaonyeije/pgis-manus-skill#readme) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-02-25 - Open-source decision-support framework for optimizing endurance training while managing Type 2 diabetes, integrating CGM, HRV, sleep, and training load data.
 * [shenas](https://github.com/shenas-org/shenas) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-18 - Local-first personal analytics platform that ingests health, finance, and activity data into a per-user DuckDB; raw data stays on your device and models train via federated learning.
@@ -273,4 +273,4 @@ To the extent possible under law, [Willem Pienaar](https://github.com/willempien
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
