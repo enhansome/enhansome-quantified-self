@@ -202,9 +202,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Wealth
 
-* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,802 | 🐛 179 | 🌐 PHP | 📅 2026-10-03 - A free and open source personal finance manager
+* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,804 | 🐛 179 | 🌐 PHP | 📅 2026-10-03 - A free and open source personal finance manager
 * [Ledger](https://github.com/ledger/ledger) ⭐ 6,047 | 🐛 19 | 🌐 C++ | 📅 2026-09-22 - Simple but powerful command line accounting.
-* [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) ⭐ 5,698 | 🐛 12 | 🌐 Go | 📅 2026-10-02 - A lightweight, self-hosted personal finance and bookkeeping app.
+* [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) ⭐ 5,699 | 🐛 12 | 🌐 Go | 📅 2026-10-03 - A lightweight, self-hosted personal finance and bookkeeping app.
 * [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 * [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 * [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
@@ -246,7 +246,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Open Source Projects
 
-* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,796 | 🐛 34 | 🌐 Rust | 📅 2026-10-03 - 24/7 local screen and audio recording with AI-powered search. Captures everything you see, say, and hear for personal analytics and lifelogging.
+* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,795 | 🐛 35 | 🌐 Rust | 📅 2026-10-03 - 24/7 local screen and audio recording with AI-powered search. Captures everything you see, say, and hear for personal analytics and lifelogging.
 * [Datasette](https://github.com/simonw/datasette) ⭐ 11,499 | 🐛 683 | 🌐 Python | 📅 2026-09-26 - An open source multi-tool for exploring and publishing data.
 * [Timelinize](https://github.com/timelinize/timelinize) ⭐ 3,676 | 🐛 56 | 🌐 Go | 📅 2026-05-22 - A data aggregation and and timeline visualization tool.
 * [HumanProgrammingInterface](https://github.com/karlicoss/HPI) ⭐ 1,638 | 🐛 22 | 🌐 Python | 📅 2026-09-20 - Unify, acces and interact with all of your personal data.

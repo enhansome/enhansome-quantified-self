@@ -170,11 +170,11 @@
                 "id": 21298446,
                 "language": "PHP",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-03T01:04:44Z",
+                "last_commit": "2026-10-03T02:05:53Z",
                 "open_issues": 179,
                 "owner": "firefly-iii",
                 "repo": "firefly-iii",
-                "stars": 24802,
+                "stars": 24804,
                 "topics": [
                   "accounting",
                   "budget",
@@ -236,11 +236,11 @@
                 "id": 304836585,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T16:58:26Z",
+                "last_commit": "2026-10-03T04:07:24Z",
                 "open_issues": 12,
                 "owner": "mayswind",
                 "repo": "ezbookkeeping",
-                "stars": 5698,
+                "stars": 5699,
                 "topics": [
                   "accounting",
                   "app",
@@ -289,11 +289,11 @@
             "id": 817326197,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T00:43:45Z",
-            "open_issues": 34,
+            "last_commit": "2026-10-03T02:32:58Z",
+            "open_issues": 35,
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21796,
+            "stars": 21795,
             "topics": [
               "agents",
               "agi",
@@ -755,7 +755,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:26:07.193Z",
+    "last_updated": "2026-10-03T05:02:53.310Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking",
