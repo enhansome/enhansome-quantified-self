@@ -1,6 +1,6 @@
 # Awesome Quantified Self with stars
 
-# [<img src="https://cdn.rawgit.com/willempienaar/awesome-quantified-self/master/awesome-quantified-self.png">](https://github.com/willempienaar/awesome-quantified-self) ⭐ 2,795 | 🐛 57 | 📅 2026-07-06
+# [<img src="https://cdn.rawgit.com/willempienaar/awesome-quantified-self/master/awesome-quantified-self.png">](https://github.com/willempienaar/awesome-quantified-self) ⭐ 2,795 | 🐛 56 | 📅 2026-07-06
 
 > Carefully curated list of awesome Quantified Self resources.
 
@@ -202,9 +202,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Wealth
 
-* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,933 | 🐛 166 | 🌐 PHP | 📅 2026-10-18 - A free and open source personal finance manager
-* [Ledger](https://github.com/ledger/ledger) ⭐ 6,058 | 🐛 28 | 🌐 C++ | 📅 2026-09-22 - Simple but powerful command line accounting.
-* [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) ⭐ 5,779 | 🐛 17 | 🌐 Go | 📅 2026-10-15 - A lightweight, self-hosted personal finance and bookkeeping app.
+* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,945 | 🐛 166 | 🌐 PHP | 📅 2026-10-19 - A free and open source personal finance manager
+* [Ledger](https://github.com/ledger/ledger) ⭐ 6,059 | 🐛 30 | 🌐 C++ | 📅 2026-10-19 - Simple but powerful command line accounting.
+* [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) ⭐ 5,788 | 🐛 17 | 🌐 Go | 📅 2026-10-19 - A lightweight, self-hosted personal finance and bookkeeping app.
 * [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 * [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 * [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
@@ -246,18 +246,18 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Open Source Projects
 
-* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,978 | 🐛 43 | 🌐 Rust | 📅 2026-10-19 - 24/7 local screen and audio recording with AI-powered search. Captures everything you see, say, and hear for personal analytics and lifelogging.
-* [Datasette](https://github.com/simonw/datasette) ⭐ 11,515 | 🐛 700 | 🌐 Python | 📅 2026-10-13 - An open source multi-tool for exploring and publishing data.
-* [Timelinize](https://github.com/timelinize/timelinize) ⭐ 3,685 | 🐛 56 | 🌐 Go | 📅 2026-05-22 - A data aggregation and and timeline visualization tool.
+* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,994 | 🐛 45 | 🌐 Rust | 📅 2026-10-19 - 24/7 local screen and audio recording with AI-powered search. Captures everything you see, say, and hear for personal analytics and lifelogging.
+* [Datasette](https://github.com/simonw/datasette) ⭐ 11,518 | 🐛 700 | 🌐 Python | 📅 2026-10-13 - An open source multi-tool for exploring and publishing data.
+* [Timelinize](https://github.com/timelinize/timelinize) ⭐ 3,686 | 🐛 56 | 🌐 Go | 📅 2026-05-22 - A data aggregation and and timeline visualization tool.
 * [HumanProgrammingInterface](https://github.com/karlicoss/HPI) ⭐ 1,644 | 🐛 23 | 🌐 Python | 📅 2026-10-10 - Unify, acces and interact with all of your personal data.
 * [Memacs](https://github.com/novoid/Memacs) ⭐ 1,116 | 🐛 20 | 🌐 Python | 📅 2026-05-25 - Visualize your life in Orgmode.
 * [Me API](https://github.com/danfang/me-api) ⭐ 840 | 🐛 5 | 🌐 JavaScript | 📅 2024-03-29 - An extensible, personal API with custom integrations.
 * [TimelineBuilder](https://github.com/facebookresearch/personal-timeline) ⚠️ Archived - A data aggregation and and timeline visualization tool by Facebook.
 * [Chronicle](https://github.com/chronicle-app/chronicle-etl) ⭐ 200 | 🐛 29 | 🌐 Ruby | 📅 2024-05-02 - A CLI toolkit for extracting and working with your digital history.
-* [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) ⭐ 188 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-13 - Self-hosted CLI that reads BLE smart scales (23 brands), calculates body composition (fat %, muscle, BMR, etc.), and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. [Website](https://blescalesync.dev).
+* [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) ⭐ 188 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-19 - Self-hosted CLI that reads BLE smart scales (23 brands), calculates body composition (fat %, muscle, BMR, etc.), and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. [Website](https://blescalesync.dev).
 * [GitStory](https://github.com/pankajkumardev/gitstory-2025) ⭐ 177 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-31 - Generates a "Spotify Wrapped" style visual summary of your yearly GitHub contribution activity.
-* [Longevity World Cup](https://github.com/nopara73/LongevityWorldCup) ⭐ 26 | 🐛 182 | 🌐 C# | 📅 2026-10-19 - Open source healthspan competition platform with biological age calculators, athlete profiles, and public leaderboards.
-* [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-10-17 - Terminal-native LifeOS for personal workflows, habits, and timelogs.
+* [Longevity World Cup](https://github.com/nopara73/LongevityWorldCup) ⭐ 26 | 🐛 180 | 🌐 C# | 📅 2026-10-20 - Open source healthspan competition platform with biological age calculators, athlete profiles, and public leaderboards.
+* [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) ⭐ 15 | 🐛 2 | 🌐 Python | 📅 2026-10-19 - Terminal-native LifeOS for personal workflows, habits, and timelogs.
 * [QS-Schema](https://github.com/QS-Schema/qs-schema) ⭐ 2 | 🐛 4 | 📅 2023-08-05 - Open schemes for QS applications.
 * [PGIS](https://github.com/chukwumaonyeije/pgis-manus-skill#readme) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-02-25 - Open-source decision-support framework for optimizing endurance training while managing Type 2 diabetes, integrating CGM, HRV, sleep, and training load data.
 * [shenas](https://github.com/shenas-org/shenas) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-18 - Local-first personal analytics platform that ingests health, finance, and activity data into a per-user DuckDB; raw data stays on your device and models train via federated learning.
@@ -273,4 +273,4 @@ To the extent possible under law, [Willem Pienaar](https://github.com/willempien
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
