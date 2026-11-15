@@ -170,11 +170,11 @@
                 "id": 21298446,
                 "language": "PHP",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-13T23:47:22Z",
-                "open_issues": 194,
+                "last_commit": "2026-11-14T12:59:56Z",
+                "open_issues": 196,
                 "owner": "firefly-iii",
                 "repo": "firefly-iii",
-                "stars": 25245,
+                "stars": 25250,
                 "topics": [
                   "accounting",
                   "budget",
@@ -200,32 +200,6 @@
             },
             {
               "node_type": "item",
-              "title": "Ledger",
-              "description": "Simple but powerful command line accounting.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Double-entry accounting system with a command-line reporting interface",
-                "homepage": "https://www.ledger-cli.org",
-                "id": 16309,
-                "language": "C++",
-                "license": "NOASSERTION",
-                "last_commit": "2026-11-12T06:00:21Z",
-                "open_issues": 36,
-                "owner": "ledger",
-                "repo": "ledger",
-                "stars": 6071,
-                "topics": [
-                  "accounting",
-                  "command-line-tool",
-                  "ledger",
-                  "plaintext-accounting"
-                ]
-              },
-              "first_seen": "2026-08-28T06:20:44.608Z"
-            },
-            {
-              "node_type": "item",
               "title": "ezBookkeeping",
               "description": "A lightweight, self-hosted personal finance and bookkeeping app.",
               "children": [],
@@ -237,10 +211,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-13T15:32:49Z",
-                "open_issues": 18,
+                "open_issues": 17,
                 "owner": "mayswind",
                 "repo": "ezbookkeeping",
-                "stars": 6068,
+                "stars": 6073,
                 "topics": [
                   "accounting",
                   "app",
@@ -262,6 +236,32 @@
                   "self-hosted",
                   "typescript",
                   "vue"
+                ]
+              },
+              "first_seen": "2026-08-28T06:20:44.608Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Ledger",
+              "description": "Simple but powerful command line accounting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Double-entry accounting system with a command-line reporting interface",
+                "homepage": "https://www.ledger-cli.org",
+                "id": 16309,
+                "language": "C++",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-12T06:00:21Z",
+                "open_issues": 37,
+                "owner": "ledger",
+                "repo": "ledger",
+                "stars": 6072,
+                "topics": [
+                  "accounting",
+                  "command-line-tool",
+                  "ledger",
+                  "plaintext-accounting"
                 ]
               },
               "first_seen": "2026-08-28T06:20:44.608Z"
@@ -289,11 +289,11 @@
             "id": 817326197,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T01:26:21Z",
+            "last_commit": "2026-11-14T23:05:44Z",
             "open_issues": 35,
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 22370,
+            "stars": 22378,
             "topics": [
               "agents",
               "agi",
@@ -331,11 +331,11 @@
             "id": 107914493,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T00:04:12Z",
-            "open_issues": 698,
+            "last_commit": "2026-11-15T00:53:34Z",
+            "open_issues": 690,
             "owner": "simonw",
             "repo": "datasette",
-            "stars": 11567,
+            "stars": 11569,
             "topics": [
               "asgi",
               "automatic-api",
@@ -368,7 +368,7 @@
             "open_issues": 56,
             "owner": "timelinize",
             "repo": "timelinize",
-            "stars": 3705,
+            "stars": 3704,
             "topics": [
               "archival",
               "data-archiving",
@@ -396,7 +396,7 @@
             "open_issues": 23,
             "owner": "karlicoss",
             "repo": "HPI",
-            "stars": 1648,
+            "stars": 1649,
             "topics": [
               "data-liberation",
               "extended-mind",
@@ -423,7 +423,7 @@
             "open_issues": 20,
             "owner": "novoid",
             "repo": "Memacs",
-            "stars": 1118,
+            "stars": 1119,
             "topics": [
               "emacs",
               "email",
@@ -499,7 +499,7 @@
             "open_issues": 9,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 224,
+            "stars": 225,
             "topics": [
               "ble",
               "body-composition",
@@ -541,7 +541,7 @@
             "open_issues": 29,
             "owner": "chronicle-app",
             "repo": "chronicle-etl",
-            "stars": 200,
+            "stars": 201,
             "topics": [
               "archiving",
               "chronicle",
@@ -598,7 +598,7 @@
             "id": 856338875,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-13T11:06:20Z",
+            "last_commit": "2026-11-15T01:40:07Z",
             "open_issues": 203,
             "owner": "nopara73",
             "repo": "LongevityWorldCup",
@@ -640,8 +640,8 @@
             "id": 1205537709,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T18:25:19Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-14T05:50:37Z",
+            "open_issues": 2,
             "owner": "lifeos-plus",
             "repo": "lifeos-cli",
             "stars": 15,
@@ -693,6 +693,33 @@
         },
         {
           "node_type": "item",
+          "title": "shenas",
+          "description": "Local-first personal analytics platform that ingests health, finance, and activity data into a per-user DuckDB; raw data stays on your device and models train via federated learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Personal analytics platform -- track, transform, and understand your data",
+            "homepage": null,
+            "id": 1207300388,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-18T18:50:34Z",
+            "open_issues": 0,
+            "owner": "shenas-org",
+            "repo": "shenas",
+            "stars": 1,
+            "topics": [
+              "data-pipeline",
+              "duckdb",
+              "personal-analytics",
+              "quantified-self",
+              "self-hosted"
+            ]
+          },
+          "first_seen": "2026-08-28T06:20:44.608Z"
+        },
+        {
+          "node_type": "item",
           "title": "PGIS",
           "description": "Open-source decision-support framework for optimizing endurance training while managing Type 2 diabetes, integrating CGM, HRV, sleep, and training load data.",
           "children": [],
@@ -722,40 +749,13 @@
             ]
           },
           "first_seen": "2026-08-28T06:20:44.608Z"
-        },
-        {
-          "node_type": "item",
-          "title": "shenas",
-          "description": "Local-first personal analytics platform that ingests health, finance, and activity data into a per-user DuckDB; raw data stays on your device and models train via federated learning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Personal analytics platform -- track, transform, and understand your data",
-            "homepage": null,
-            "id": 1207300388,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-08-18T18:50:34Z",
-            "open_issues": 0,
-            "owner": "shenas-org",
-            "repo": "shenas",
-            "stars": 0,
-            "topics": [
-              "data-pipeline",
-              "duckdb",
-              "personal-analytics",
-              "quantified-self",
-              "self-hosted"
-            ]
-          },
-          "first_seen": "2026-08-28T06:20:44.608Z"
         }
       ],
       "title": "Open Source Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T02:41:04.538Z",
+    "last_updated": "2026-11-15T02:07:12.218Z",
     "original_repository_info": {
       "archived": false,
       "description": ":bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking",
@@ -767,7 +767,7 @@
       "open_issues": 54,
       "owner": "woop",
       "repo": "awesome-quantified-self",
-      "stars": 2813,
+      "stars": 2814,
       "topics": [
         "awesome",
         "awesome-list",
