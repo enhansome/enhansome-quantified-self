@@ -1,6 +1,6 @@
 # Awesome Quantified Self with stars
 
-# [<img src="https://cdn.rawgit.com/willempienaar/awesome-quantified-self/master/awesome-quantified-self.png">](https://github.com/willempienaar/awesome-quantified-self) ⭐ 2,814 | 🐛 54 | 📅 2026-07-06
+# [<img src="https://cdn.rawgit.com/willempienaar/awesome-quantified-self/master/awesome-quantified-self.png">](https://github.com/willempienaar/awesome-quantified-self) ⭐ 2,815 | 🐛 54 | 📅 2026-07-06
 
 > Carefully curated list of awesome Quantified Self resources.
 
@@ -70,7 +70,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### Aggregators & Dashboards
 
 * [BiomarkerDash](https://github.com/NoTranslationLayer/biomarkerdash) ⭐ 26 | 🐛 5 | 🌐 Python | 📅 2023-11-17 - Simple dashboard to visualize trends in bloodwork biomarkers.
-* [Bloodboy](https://github.com/ashugaev/bloodboy-biomarkers-tracker) ⭐ 25 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-03 - Biomarker analyzer that extracts lab results from PDFs, converts units, and visualizes trends.
+* [Bloodboy](https://github.com/ashugaev/bloodboy-biomarkers-tracker) ⭐ 25 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-03 - Biomarker analyzer that extracts lab results from PDFs, converts units, and visualizes trends.
 * [Apple Health](http://www.apple.com/ios/health/) - Multi-purpose tracking platform for Apple devices. Tracks activities, sleep, nutrition, mindfulness, and other metrics.
 * [Google Fit](https://www.google.com/fit) - Open ecosystem to store, access, and manage fitness data (Android).
 * [Gyroscope](https://gyrosco.pe/) - Quantified Self health dashboard (web, iOS, & Android).
@@ -202,9 +202,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Wealth
 
-* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 25,250 | 🐛 196 | 🌐 PHP | 📅 2026-11-14 - A free and open source personal finance manager
-* [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) ⭐ 6,073 | 🐛 17 | 🌐 Go | 📅 2026-11-13 - A lightweight, self-hosted personal finance and bookkeeping app.
-* [Ledger](https://github.com/ledger/ledger) ⭐ 6,072 | 🐛 37 | 🌐 C++ | 📅 2026-11-12 - Simple but powerful command line accounting.
+* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 25,259 | 🐛 197 | 🌐 PHP | 📅 2026-11-14 - A free and open source personal finance manager
+* [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) ⭐ 6,080 | 🐛 17 | 🌐 Go | 📅 2026-11-15 - A lightweight, self-hosted personal finance and bookkeeping app.
+* [Ledger](https://github.com/ledger/ledger) ⭐ 6,074 | 🐛 38 | 🌐 C++ | 📅 2026-11-12 - Simple but powerful command line accounting.
 * [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 * [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 * [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
@@ -246,17 +246,17 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Open Source Projects
 
-* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 22,378 | 🐛 35 | 🌐 Rust | 📅 2026-11-14 - 24/7 local screen and audio recording with AI-powered search. Captures everything you see, say, and hear for personal analytics and lifelogging.
-* [Datasette](https://github.com/simonw/datasette) ⭐ 11,569 | 🐛 690 | 🌐 Python | 📅 2026-11-15 - An open source multi-tool for exploring and publishing data.
-* [Timelinize](https://github.com/timelinize/timelinize) ⭐ 3,704 | 🐛 56 | 🌐 Go | 📅 2026-05-22 - A data aggregation and and timeline visualization tool.
-* [HumanProgrammingInterface](https://github.com/karlicoss/HPI) ⭐ 1,649 | 🐛 23 | 🌐 Python | 📅 2026-11-13 - Unify, acces and interact with all of your personal data.
-* [Memacs](https://github.com/novoid/Memacs) ⭐ 1,119 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Visualize your life in Orgmode.
+* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 22,391 | 🐛 39 | 🌐 Rust | 📅 2026-11-15 - 24/7 local screen and audio recording with AI-powered search. Captures everything you see, say, and hear for personal analytics and lifelogging.
+* [Datasette](https://github.com/simonw/datasette) ⭐ 11,575 | 🐛 672 | 🌐 Python | 📅 2026-11-16 - An open source multi-tool for exploring and publishing data.
+* [Timelinize](https://github.com/timelinize/timelinize) ⭐ 3,707 | 🐛 56 | 🌐 Go | 📅 2026-05-22 - A data aggregation and and timeline visualization tool.
+* [HumanProgrammingInterface](https://github.com/karlicoss/HPI) ⭐ 1,649 | 🐛 23 | 🌐 Python | 📅 2026-11-16 - Unify, acces and interact with all of your personal data.
+* [Memacs](https://github.com/novoid/Memacs) ⭐ 1,120 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Visualize your life in Orgmode.
 * [Me API](https://github.com/danfang/me-api) ⭐ 840 | 🐛 5 | 🌐 JavaScript | 📅 2024-03-29 - An extensible, personal API with custom integrations.
 * [TimelineBuilder](https://github.com/facebookresearch/personal-timeline) ⚠️ Archived - A data aggregation and and timeline visualization tool by Facebook.
-* [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) ⭐ 225 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-12 - Self-hosted CLI that reads BLE smart scales (23 brands), calculates body composition (fat %, muscle, BMR, etc.), and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. [Website](https://blescalesync.dev).
+* [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) ⭐ 226 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-15 - Self-hosted CLI that reads BLE smart scales (23 brands), calculates body composition (fat %, muscle, BMR, etc.), and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. [Website](https://blescalesync.dev).
 * [Chronicle](https://github.com/chronicle-app/chronicle-etl) ⭐ 201 | 🐛 29 | 🌐 Ruby | 📅 2024-05-02 - A CLI toolkit for extracting and working with your digital history.
 * [GitStory](https://github.com/pankajkumardev/gitstory-2025) ⭐ 177 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-31 - Generates a "Spotify Wrapped" style visual summary of your yearly GitHub contribution activity.
-* [Longevity World Cup](https://github.com/nopara73/LongevityWorldCup) ⭐ 28 | 🐛 203 | 🌐 C# | 📅 2026-11-15 - Open source healthspan competition platform with biological age calculators, athlete profiles, and public leaderboards.
+* [Longevity World Cup](https://github.com/nopara73/LongevityWorldCup) ⭐ 28 | 🐛 203 | 🌐 C# | 📅 2026-11-16 - Open source healthspan competition platform with biological age calculators, athlete profiles, and public leaderboards.
 * [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) ⭐ 15 | 🐛 2 | 🌐 Python | 📅 2026-11-14 - Terminal-native LifeOS for personal workflows, habits, and timelogs.
 * [QS-Schema](https://github.com/QS-Schema/qs-schema) ⭐ 2 | 🐛 4 | 📅 2023-08-05 - Open schemes for QS applications.
 * [shenas](https://github.com/shenas-org/shenas) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-18 - Local-first personal analytics platform that ingests health, finance, and activity data into a per-user DuckDB; raw data stays on your device and models train via federated learning.
@@ -273,4 +273,4 @@ To the extent possible under law, [Willem Pienaar](https://github.com/willempien
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
